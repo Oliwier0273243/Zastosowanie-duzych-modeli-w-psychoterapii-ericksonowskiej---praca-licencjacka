@@ -1,0 +1,44 @@
+{
+  "name": "backend-final",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "ai-chat:cli": "node scripts/ai-chat-cli.js",
+    "prettier": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "Oliwier Bosek",
+  "license": "ISC",
+  "description": "Licencjat 2025 - Zastosowanie dużych modeli językowych w psychoterapii ericksonowskiej",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.5",
+    "@pinecone-database/pinecone": "^6.1.2",
+    "bcrypt": "^6.0.0",
+    "cheerio": "^1.1.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "eslint": "^9.35.0",
+    "express": "^5.1.0",
+    "googleapis": "^157.0.0",
+    "got": "^13.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.4",
+    "nodemailer": "^7.0.5",
+    "nodemon": "^3.1.10",
+    "openai": "^5.10.2",
+    "playwright": "^1.54.2",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}

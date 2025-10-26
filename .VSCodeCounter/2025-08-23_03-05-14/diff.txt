@@ -1,0 +1,45 @@
+Date : 2025-08-23 03:05:14
+Directory : c:\licencjat\aplikacja - spatium\Spatium\backend-final\src
+Total : 14 files,  -478 codes, -7 comments, -94 blanks, all -579 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         14 |       -478 |         -7 |        -94 |       -579 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                 | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                    |         14 |       -478 |         -7 |        -94 |       -579 |
+| aiSystem                                                                                                             |         13 |       -472 |         -7 |        -92 |       -571 |
+| aiSystem (Files)                                                                                                     |          3 |       -122 |         -2 |        -17 |       -141 |
+| aiSystem\agents                                                                                                      |          3 |        -72 |         -1 |        -20 |        -93 |
+| aiSystem\agents\orchestratorAgent                                                                                    |          1 |        -69 |         -1 |        -16 |        -86 |
+| aiSystem\agents\webcrawlerAgent                                                                                      |          2 |         -3 |          0 |         -4 |         -7 |
+| aiSystem\orchestratorAgent                                                                                           |          7 |       -278 |         -4 |        -55 |       -337 |
+| config                                                                                                               |          1 |         -6 |          0 |         -2 |         -8 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                             | language   | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\orchestratorAgent\orchestratorAgent.js    | JavaScript |        -69 |         -1 |        -16 |        -86 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\webcrawlerAgent\webCrawlerAgentContext.js | JavaScript |          1 |          0 |          0 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\webcrawlerAgent\webCrawlerPrompt.js       | JavaScript |         -4 |          0 |         -4 |         -8 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\handlePrompt.js                                  | JavaScript |        -89 |         -2 |        -10 |       -101 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\handleToolCall.js                                | JavaScript |        -15 |          0 |         -3 |        -18 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\executeOrchestratorTask.js     | JavaScript |       -122 |         -3 |        -25 |       -150 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\formatsValidation.js           | JavaScript |        -42 |          0 |         -6 |        -48 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\messagesContext.js             | JavaScript |        -16 |          0 |         -4 |        -20 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\orchestratorAgent.js           | JavaScript |        -76 |         -1 |        -18 |        -95 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\orchestratorAgentPrompt.js     | JavaScript |         44 |          0 |         10 |         54 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\orchestratorState.js           | JavaScript |        -31 |          0 |         -5 |        -36 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\validateTaskTree.js            | JavaScript |        -35 |          0 |         -7 |        -42 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\primaryAgentState.js                             | JavaScript |        -18 |          0 |         -4 |        -22 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\config\qdrantClient.js                                    | JavaScript |         -6 |          0 |         -2 |         -8 |
+| Total                                                                                                                |            |       -478 |         -7 |        -94 |       -579 |
++----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

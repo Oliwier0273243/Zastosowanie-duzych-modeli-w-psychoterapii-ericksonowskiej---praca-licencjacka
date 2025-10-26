@@ -1,0 +1,126 @@
+Date : 2025-09-02 00:12:43
+Directory : c:\licencjat\aplikacja - spatium\Spatium\backend-final\src
+Total : 61 files,  708 codes, -4 comments, 159 blanks, all 863 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         61 |        708 |         -4 |        159 |        863 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                               | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                  |         61 |        708 |         -4 |        159 |        863 |
+| aiSystem                                                                                                                           |         24 |        591 |          3 |        125 |        719 |
+| aiSystem (Files)                                                                                                                   |          2 |        125 |          3 |         15 |        143 |
+| aiSystem\agents                                                                                                                    |         19 |        378 |          0 |        104 |        482 |
+| aiSystem\agents\crudAgent                                                                                                          |          8 |          3 |          0 |         10 |         13 |
+| aiSystem\agents\crudAgent (Files)                                                                                                  |          2 |         60 |          0 |          4 |         64 |
+| aiSystem\agents\crudAgent\agents                                                                                                   |          5 |        -79 |          0 |         -3 |        -82 |
+| aiSystem\agents\crudAgent\agents (Files)                                                                                           |          4 |        -78 |          0 |         -3 |        -81 |
+| aiSystem\agents\crudAgent\agents\tools                                                                                             |          1 |         -1 |          0 |          0 |         -1 |
+| aiSystem\agents\crudAgent\tools                                                                                                    |          1 |         22 |          0 |          9 |         31 |
+| aiSystem\agents\ericksonianExercisesAgent                                                                                          |          4 |        -10 |          0 |         13 |          3 |
+| aiSystem\agents\ericksonianExercisesAgent (Files)                                                                                  |          2 |         77 |          0 |         33 |        110 |
+| aiSystem\agents\ericksonianExercisesAgent\tools                                                                                    |          2 |        -87 |          0 |        -20 |       -107 |
+| aiSystem\agents\ericksonianHypnosisAgent                                                                                           |          2 |        368 |          0 |         79 |        447 |
+| aiSystem\agents\shared                                                                                                             |          2 |          2 |          0 |          0 |          2 |
+| aiSystem\agents\webcrawlerAgent                                                                                                    |          3 |         15 |          0 |          2 |         17 |
+| aiSystem\orchestratorAgent                                                                                                         |          3 |         88 |          0 |          6 |         94 |
+| controllers                                                                                                                        |          5 |         55 |          0 |         13 |         68 |
+| controllers\auth                                                                                                                   |          1 |          1 |          0 |          0 |          1 |
+| controllers\chats                                                                                                                  |          1 |          4 |          0 |          1 |          5 |
+| controllers\chats\messages                                                                                                         |          1 |          4 |          0 |          1 |          5 |
+| controllers\research                                                                                                               |          3 |         50 |          0 |         12 |         62 |
+| middlewares                                                                                                                        |          7 |         17 |          0 |         12 |         29 |
+| middlewares\books                                                                                                                  |          3 |        -23 |          0 |         -6 |        -29 |
+| middlewares\chats                                                                                                                  |          4 |         40 |          0 |         18 |         58 |
+| models                                                                                                                             |          4 |        -13 |          0 |         -2 |        -15 |
+| routes                                                                                                                             |          2 |         12 |          0 |          3 |         15 |
+| routes (Files)                                                                                                                     |          1 |         10 |          0 |          3 |         13 |
+| routes\chats                                                                                                                       |          1 |          2 |          0 |          0 |          2 |
+| services                                                                                                                           |         15 |         42 |         -7 |          6 |         41 |
+| services\books                                                                                                                     |          5 |          5 |         -6 |          0 |         -1 |
+| services\books\bookPages                                                                                                           |          5 |          5 |         -6 |          0 |         -1 |
+| services\chats                                                                                                                     |          5 |         23 |          0 |          5 |         28 |
+| services\chats (Files)                                                                                                             |          3 |          5 |          0 |          1 |          6 |
+| services\chats\messages                                                                                                            |          2 |         18 |          0 |          4 |         22 |
+| services\notes                                                                                                                     |          1 |         10 |          0 |          1 |         11 |
+| services\patients                                                                                                                  |          1 |          2 |          0 |          0 |          2 |
+| services\userContext                                                                                                               |          3 |          2 |         -1 |          0 |          1 |
+| utils                                                                                                                              |          3 |         32 |          0 |          7 |         39 |
+| utils (Files)                                                                                                                      |          1 |         23 |          0 |          7 |         30 |
+| utils\pinecone                                                                                                                     |          2 |          9 |          0 |          0 |          9 |
+| websockets                                                                                                                         |          1 |        -28 |          0 |         -5 |        -33 |
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                           | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\noteAgent.js                           | JavaScript |         38 |          0 |          3 |         41 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\patientAgent.js                        | JavaScript |          4 |          0 |          0 |          4 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\patientAgentPrompt.js                  | JavaScript |       -122 |          0 |         -5 |       -127 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\tools\patients.js                      | JavaScript |         -1 |          0 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\userContextAgent.js                    | JavaScript |          2 |          0 |         -1 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\crudAgent.js                                  | JavaScript |         38 |          0 |          3 |         41 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\crudAgentPrompt.js                            | JavaScript |         22 |          0 |          1 |         23 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\tools\delegate.js                             | JavaScript |         22 |          0 |          9 |         31 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianExercisesAgent\ericksonianExercisesAgent.js  | JavaScript |          1 |          0 |          0 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianExercisesAgent\ericksonianExercisesPrompt.js | JavaScript |         76 |          0 |         33 |        109 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianExercisesAgent\tools\adaptExercise.js        | JavaScript |        -44 |          0 |        -11 |        -55 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianExercisesAgent\tools\generateExercise.js     | JavaScript |        -43 |          0 |         -9 |        -52 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianHypnosisAgent\ericksonianHypnosisAgent.js    | JavaScript |          1 |          0 |         -1 |          0 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\ericksonianHypnosisAgent\ericksonianHypnosisPrompt.js   | JavaScript |        367 |          0 |         80 |        447 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\shared\handleToolCall.js                                | JavaScript |          5 |          0 |         -1 |          4 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\shared\handoff.js                                       | JavaScript |         -3 |          0 |          1 |         -2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\webcrawlerAgent\webCrawlerAgentContext.js               | JavaScript |          6 |          0 |          1 |          7 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\webcrawlerAgent\webCrawlerPrompt.js                     | JavaScript |          8 |          0 |          0 |          8 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\webcrawlerAgent\webcrawlerAgent.js                      | JavaScript |          1 |          0 |          1 |          2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\handlePrompt.js                                                | JavaScript |         68 |          3 |          6 |         77 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\messagesContext.js                                             | JavaScript |         57 |          0 |          9 |         66 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\messagesContext.js                           | JavaScript |         57 |          0 |          9 |         66 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\orchestratorAgent.js                         | JavaScript |         25 |          0 |          1 |         26 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\orchestratorAgent\orchestratorAgentPrompt.js                   | JavaScript |          6 |          0 |         -4 |          2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\controllers\auth\registerController.js                                  | JavaScript |          1 |          0 |          0 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\controllers\chats\messages\deleteMessageController.js                   | JavaScript |          4 |          0 |          1 |          5 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\controllers\research\deleteResearchController.js                        | JavaScript |         21 |          0 |          4 |         25 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\controllers\research\getResearchController.js                           | JavaScript |         11 |          0 |          3 |         14 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\controllers\research\getResearchesController.js                         | JavaScript |         18 |          0 |          5 |         23 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\books\validateBookPageMiddleware.js                         | JavaScript |         -3 |          0 |         -1 |         -4 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\books\validateBookPagePatchMiddleware.js                    | JavaScript |        -10 |          0 |         -3 |        -13 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\books\validateBookPatchMiddleware.js                        | JavaScript |        -10 |          0 |         -2 |        -12 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\chats\validateChatMiddleware.js                             | JavaScript |        -15 |          0 |         -3 |        -18 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\chats\validateChatPatchMiddleware.js                        | JavaScript |        -17 |          0 |         -3 |        -20 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\chats\validateMessageMiddleware.js                          | JavaScript |         37 |          0 |         12 |         49 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\middlewares\chats\validateMessagePatchMiddleware.js                     | JavaScript |         35 |          0 |         12 |         47 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\models\chatModel.js                                                     | JavaScript |         -9 |          0 |         -2 |        -11 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\models\patientModel.js                                                  | JavaScript |         -2 |          0 |          0 |         -2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\models\userContextModel.js                                              | JavaScript |         -1 |          0 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\models\userModel.js                                                     | JavaScript |         -1 |          0 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\routes\chats\messagesRoutes.js                                          | JavaScript |          2 |          0 |          0 |          2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\routes\researchesRoutes.js                                              | JavaScript |         10 |          0 |          3 |         13 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\books\bookPages\deleteBookPageService.js                       | JavaScript |          0 |         -3 |          0 |         -3 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\books\bookPages\patchBookPageService.js                        | JavaScript |          0 |         -1 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\books\bookPages\postBookPageService.js                         | JavaScript |          0 |         -1 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\books\bookPages\putBookPageService.js                          | JavaScript |          0 |         -1 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\books\bookPages\translationService.js                          | JavaScript |          5 |          0 |          0 |          5 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\chats\deleteChatService.js                                     | JavaScript |          2 |          0 |          1 |          3 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\chats\getChatService.js                                        | JavaScript |         -1 |          0 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\chats\messages\postMessageService.js                           | JavaScript |          7 |          0 |          1 |          8 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\chats\messages\putMessageService.js                            | JavaScript |         11 |          0 |          3 |         14 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\chats\postChatService.js                                       | JavaScript |          4 |          0 |          0 |          4 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\notes\putNoteService.js                                        | JavaScript |         10 |          0 |          1 |         11 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\patients\patchPatientService.js                                | JavaScript |          2 |          0 |          0 |          2 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\userContext\patchUserContextService.js                         | JavaScript |          0 |         -1 |          0 |         -1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\userContext\postUserContextService.js                          | JavaScript |          1 |          0 |          0 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\services\userContext\validateUserContextData.js                         | JavaScript |          1 |          0 |          0 |          1 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\utils\generateChatTitle.js                                              | JavaScript |         23 |          0 |          7 |         30 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\utils\pinecone\createVectorIndex.js                                     | JavaScript |          6 |          0 |          0 |          6 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\utils\pinecone\deleteVector.js                                          | JavaScript |          3 |          0 |          0 |          3 |
+| c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\websockets\aiChat.js                                                    | JavaScript |        -28 |          0 |         -5 |        -33 |
+| Total                                                                                                                              |            |        708 |         -4 |        159 |        863 |
++------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

@@ -1,0 +1,11 @@
+"filename", "language", "JavaScript", "comment", "blank", "total"
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\addNotification.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\checkEvent.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\deleteEvent.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\listEvents.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\newEvent.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\calendarAgent\tools\updateEvent.js", "JavaScript", 3, 0, 4, 7
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\tools\notes.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\crudAgent\agents\tools\patients.js", "JavaScript", 1, 0, 0, 1
+"c:\licencjat\aplikacja - spatium\Spatium\backend-final\src\aiSystem\agents\shared\handleToolCall.js", "JavaScript", 3, 0, 3, 6
+"Total", "-", 13, 0, 7, 20

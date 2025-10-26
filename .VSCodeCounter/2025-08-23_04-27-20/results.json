@@ -1,0 +1,1268 @@
+{
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/websockets/websockets.js": {
+    "language": "JavaScript",
+    "code": 4,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/upsertVector.js": {
+    "language": "JavaScript",
+    "code": 27,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/vectorSearch.js": {
+    "language": "JavaScript",
+    "code": 54,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/updateVectors.js": {
+    "language": "JavaScript",
+    "code": 35,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/validation.js": {
+    "language": "JavaScript",
+    "code": 24,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/initializePineconeIndexes.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/websockets/aiChat.js": {
+    "language": "JavaScript",
+    "code": 79,
+    "comment": 0,
+    "blank": 17
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/getVector.js": {
+    "language": "JavaScript",
+    "code": 26,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/deleteVector.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/ai/queryLLM.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 3,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/pinecone/createVectorIndex.js": {
+    "language": "JavaScript",
+    "code": 23,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/embedding.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/validateUserContextData.js": {
+    "language": "JavaScript",
+    "code": 74,
+    "comment": 7,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/utils/generateTitle.js": {
+    "language": "JavaScript",
+    "code": 3,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/postUserContextService.js": {
+    "language": "JavaScript",
+    "code": 30,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/putUserContextService.js": {
+    "language": "JavaScript",
+    "code": 45,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/patchUserContextService.js": {
+    "language": "JavaScript",
+    "code": 36,
+    "comment": 1,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/getUserContextService.js": {
+    "language": "JavaScript",
+    "code": 49,
+    "comment": 6,
+    "blank": 13
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/userContext/deleteUserContextService.js": {
+    "language": "JavaScript",
+    "code": 23,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/getResearchService.js": {
+    "language": "JavaScript",
+    "code": 7,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/getResearchesService.js": {
+    "language": "JavaScript",
+    "code": 15,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/putResearchService.js": {
+    "language": "JavaScript",
+    "code": 27,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/postResearchService.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/deleteResearchService.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/patchResearchService.js": {
+    "language": "JavaScript",
+    "code": 8,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/research/chunkResearchService.js": {
+    "language": "JavaScript",
+    "code": 72,
+    "comment": 0,
+    "blank": 13
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/putPatientService.js": {
+    "language": "JavaScript",
+    "code": 40,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/postPatientService.js": {
+    "language": "JavaScript",
+    "code": 48,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/patchPatientService.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/getPatientsService.js": {
+    "language": "JavaScript",
+    "code": 30,
+    "comment": 1,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/deletePatientService.js": {
+    "language": "JavaScript",
+    "code": 21,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/patients/getPatientService.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/postNoteService.js": {
+    "language": "JavaScript",
+    "code": 43,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/patchNoteService.js": {
+    "language": "JavaScript",
+    "code": 35,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/getNotesService.js": {
+    "language": "JavaScript",
+    "code": 30,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/getNoteService.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/putNoteService.js": {
+    "language": "JavaScript",
+    "code": 35,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/putChatService.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/patchChatService.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/postChatService.js": {
+    "language": "JavaScript",
+    "code": 5,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/postMessageService.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/putMessageService.js": {
+    "language": "JavaScript",
+    "code": 36,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/patchMessageService.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/getMessagesService.js": {
+    "language": "JavaScript",
+    "code": 45,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/getMessageService.js": {
+    "language": "JavaScript",
+    "code": 21,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/messages/deleteMessageService.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/getChatsService.js": {
+    "language": "JavaScript",
+    "code": 17,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/getChatService.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/chats/deleteChatService.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/putBookService.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/patchBookService.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/postBookService.js": {
+    "language": "JavaScript",
+    "code": 47,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/getBooksService.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/getBookService.js": {
+    "language": "JavaScript",
+    "code": 8,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/deleteBookService.js": {
+    "language": "JavaScript",
+    "code": 21,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/notes/deleteNoteService.js": {
+    "language": "JavaScript",
+    "code": 21,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/translationService.js": {
+    "language": "JavaScript",
+    "code": 25,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/putBookPageService.js": {
+    "language": "JavaScript",
+    "code": 42,
+    "comment": 1,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/patchBookPageService.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 1,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/getBookPageService.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/getBookPagesService.js": {
+    "language": "JavaScript",
+    "code": 5,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/deleteBookPageService.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 3,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/patientRoutes.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/chats/messagesRoutes.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/notesRoutes.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/chats/chatRoutes.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/books/bookRoutes.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 1,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/books/bookPageRoutes.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 1,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/config/nodeMailer.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/orchestratorAgent/orchestratorAgent.js": {
+    "language": "JavaScript",
+    "code": 70,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/config/mongoConnection.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/config/pineconeClient.js": {
+    "language": "JavaScript",
+    "code": 5,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/postPatientController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/patchPatientController.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/orchestratorAgent/orchestratorAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 122,
+    "comment": 0,
+    "blank": 29
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/putPatientController.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/routes/authRoutes.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/getPatientsController.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/handlePrompt.js": {
+    "language": "JavaScript",
+    "code": 22,
+    "comment": 1,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/putNoteController.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/deletePatientController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/postNoteController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/patients/getPatientController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/getNoteController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/webCrawlerPrompt.js": {
+    "language": "JavaScript",
+    "code": 101,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/webcrawlerAgent.js": {
+    "language": "JavaScript",
+    "code": 54,
+    "comment": 0,
+    "blank": 12
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/getNotesController.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/patchNoteController.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/webCrawlerAgentContext.js": {
+    "language": "JavaScript",
+    "code": 72,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/postChatController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/putChatController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/patchChatController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/tools/scrapeBrowser.js": {
+    "language": "JavaScript",
+    "code": 41,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/tools/finish.js": {
+    "language": "JavaScript",
+    "code": 8,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/tools/getResource.js": {
+    "language": "JavaScript",
+    "code": 4,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/tools/scrapeWebsite.js": {
+    "language": "JavaScript",
+    "code": 36,
+    "comment": 9,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/webcrawlerAgent/tools/addResource.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/deleteMessageController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/getChatController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/deleteChatController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/putMessageController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/getChatsController.js": {
+    "language": "JavaScript",
+    "code": 17,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/notes/deleteNoteController.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/getMessagesController.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/patchMessageController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/postMessageController.js": {
+    "language": "JavaScript",
+    "code": 14,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/chats/messages/getMessageController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/notesModel.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/shared/handoff.js": {
+    "language": "JavaScript",
+    "code": 25,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/services/books/bookPages/postBookPageService.js": {
+    "language": "JavaScript",
+    "code": 52,
+    "comment": 1,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/chatModel.js": {
+    "language": "JavaScript",
+    "code": 17,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/bookSchema.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/userContextModel.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/shared/handleToolCall.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/putBookController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/patientModel.js": {
+    "language": "JavaScript",
+    "code": 51,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/researchModel.js": {
+    "language": "JavaScript",
+    "code": 33,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/postBookController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/getBooksController.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/getBookController.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/patchBookController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/deleteBookController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/patients/validatePatientPatchDataMiddleware.js": {
+    "language": "JavaScript",
+    "code": 69,
+    "comment": 0,
+    "blank": 14
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/postBookPageController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/userModel.js": {
+    "language": "JavaScript",
+    "code": 15,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/putBookPageController.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/getBookPagesController.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/notes/validateNotePatchMiddleware.js": {
+    "language": "JavaScript",
+    "code": 25,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/patchBookPageController.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/writeFragment.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updateSubFragment.js": {
+    "language": "JavaScript",
+    "code": 22,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updateResources.js": {
+    "language": "JavaScript",
+    "code": 21,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updateResource.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updateResearchFragment.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updatePlanStep.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updatePlan.js": {
+    "language": "JavaScript",
+    "code": 14,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/updateFragment.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/patients/validatePatienetDataMiddleware.js": {
+    "language": "JavaScript",
+    "code": 70,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/toolError.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/getResource.js": {
+    "language": "JavaScript",
+    "code": 14,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/saveResearch.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/getFragment.js": {
+    "language": "JavaScript",
+    "code": 17,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/editFragment.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/deleteSubFragment.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/deleteResource.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/deleteResearchFragment.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/deleteFragment.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/addSubFragment.js": {
+    "language": "JavaScript",
+    "code": 39,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/addResources.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/addResearchFragment.js": {
+    "language": "JavaScript",
+    "code": 20,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/addPlanStep.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/addPlan.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/researchAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 245,
+    "comment": 0,
+    "blank": 35
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/researchAgent.js": {
+    "language": "JavaScript",
+    "code": 203,
+    "comment": 0,
+    "blank": 33
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/getBookPageController.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/books/bookPages/deleteBookPageController.js": {
+    "language": "JavaScript",
+    "code": 10,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/notes/validateNoteMiddleware.js": {
+    "language": "JavaScript",
+    "code": 38,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/verifyEmailController.js": {
+    "language": "JavaScript",
+    "code": 22,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/resetPassword.js": {
+    "language": "JavaScript",
+    "code": 22,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/registerController.js": {
+    "language": "JavaScript",
+    "code": 36,
+    "comment": 0,
+    "blank": 13
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/sendOtpController.js": {
+    "language": "JavaScript",
+    "code": 22,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/isAuthenticatedController.js": {
+    "language": "JavaScript",
+    "code": 7,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/passwordResetOtpSend.js": {
+    "language": "JavaScript",
+    "code": 23,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/logoutController.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 3
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/chats/validateChatMiddleware.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/controllers/auth/loginController.js": {
+    "language": "JavaScript",
+    "code": 34,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/chats/validateChatPatchMiddleware.js": {
+    "language": "JavaScript",
+    "code": 36,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianHypnosisAgent/ericksonianHypnosisAgent.js": {
+    "language": "JavaScript",
+    "code": 0,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianHypnosisAgent/tools/generateInduction.js": {
+    "language": "JavaScript",
+    "code": 54,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianHypnosisAgent/ericksonianHypnosisPrompt.js": {
+    "language": "JavaScript",
+    "code": 126,
+    "comment": 0,
+    "blank": 24
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/books/validateBookPatchMiddleware.js": {
+    "language": "JavaScript",
+    "code": 39,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/books/validateBookPagePatchMiddleware.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/books/validateBookMiddleware.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ragAgent/ragAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 81,
+    "comment": 0,
+    "blank": 12
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ragAgent/ragAgent.js": {
+    "language": "JavaScript",
+    "code": 77,
+    "comment": 0,
+    "blank": 20
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/tools/delegate.js": {
+    "language": "JavaScript",
+    "code": 29,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/crudAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 80,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/crudAgent.js": {
+    "language": "JavaScript",
+    "code": 66,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ragAgent/tools/search.js": {
+    "language": "JavaScript",
+    "code": 37,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/userContextAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 113,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/authMiddleware.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/userContextAgent.js": {
+    "language": "JavaScript",
+    "code": 66,
+    "comment": 0,
+    "blank": 19
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/humanInLoopAgent/humanInLoopPrompt.js": {
+    "language": "JavaScript",
+    "code": 58,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/humanInLoopAgent/humanInLoopAgent.js": {
+    "language": "JavaScript",
+    "code": 61,
+    "comment": 0,
+    "blank": 16
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/noteAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 154,
+    "comment": 0,
+    "blank": 19
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/noteAgent.js": {
+    "language": "JavaScript",
+    "code": 66,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/index.js": {
+    "language": "JavaScript",
+    "code": 3,
+    "comment": 0,
+    "blank": 0
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/patientAgent.js": {
+    "language": "JavaScript",
+    "code": 66,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/patientAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 179,
+    "comment": 0,
+    "blank": 19
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/calendarAgent.js": {
+    "language": "JavaScript",
+    "code": 79,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/middlewares/books/validateBookPageMiddleware.js": {
+    "language": "JavaScript",
+    "code": 15,
+    "comment": 0,
+    "blank": 5
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agentRegistry.js": {
+    "language": "JavaScript",
+    "code": 18,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/calendar.json": {
+    "language": "JSON",
+    "code": 13,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/tools/userContext.js": {
+    "language": "JavaScript",
+    "code": 15,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/humanInLoopAgent/tools/messageUser.js": {
+    "language": "JavaScript",
+    "code": 68,
+    "comment": 0,
+    "blank": 11
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/calendarAgentPrompt.js": {
+    "language": "JavaScript",
+    "code": 119,
+    "comment": 0,
+    "blank": 18
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/calendarClient.js": {
+    "language": "JavaScript",
+    "code": 13,
+    "comment": 0,
+    "blank": 4
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/tools/notes.js": {
+    "language": "JavaScript",
+    "code": 24,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/crudAgent/agents/tools/patients.js": {
+    "language": "JavaScript",
+    "code": 25,
+    "comment": 0,
+    "blank": 7
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/updateEvent.js": {
+    "language": "JavaScript",
+    "code": 19,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/newEvent.js": {
+    "language": "JavaScript",
+    "code": 9,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/listEvents.js": {
+    "language": "JavaScript",
+    "code": 11,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/deleteEvent.js": {
+    "language": "JavaScript",
+    "code": 6,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/checkEvent.js": {
+    "language": "JavaScript",
+    "code": 6,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/researchAgent/tools/deletePlanStep.js": {
+    "language": "JavaScript",
+    "code": 16,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianExercisesAgent/tools/generateExercise.js": {
+    "language": "JavaScript",
+    "code": 43,
+    "comment": 0,
+    "blank": 9
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianExercisesAgent/ericksonianExercisesAgent.js": {
+    "language": "JavaScript",
+    "code": 0,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/models/messageModel.js": {
+    "language": "JavaScript",
+    "code": 32,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/calendarAgent/tools/addNotification.js": {
+    "language": "JavaScript",
+    "code": 12,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianExercisesAgent/ericksonianExercisesPrompt.js": {
+    "language": "JavaScript",
+    "code": 59,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///c%3A/licencjat/aplikacja%20-%20spatium/Spatium/backend-final/src/aiSystem/agents/ericksonianExercisesAgent/tools/adaptExercise.js": {
+    "language": "JavaScript",
+    "code": 44,
+    "comment": 0,
+    "blank": 11
+  }
+}
