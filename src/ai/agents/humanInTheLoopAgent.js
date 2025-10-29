@@ -81,5 +81,3 @@ export async function humanInTheLoopAgent(params, context = {}) {
 
   return { result: "Max attempts reached without response", state };
 }
-
-const respone = await humanInTheLoopAgent({ prompt: "zapytaj po co to zadanie ma byc" });
